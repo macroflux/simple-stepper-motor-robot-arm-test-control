@@ -1,5 +1,5 @@
 # Stepper Motor Control for Robotic Elbow Joint
-
+![Stepper Motor Robot Arm](https://raw.githubusercontent.com/macroflux/simple-stepper-motor-robot-arm-test-control/main/arduino%20robot%20arm.webp)
 ## Overview
 This Arduino project provides manual and automated control for a stepper motor attached to a robotic elbow joint. It allows users to:
 - Manually adjust the motor's position via serial commands.
